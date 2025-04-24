@@ -32,6 +32,8 @@ You can test the endpoints using:
 
 - **Postman**: [Download here](https://www.postman.com/downloads/)
 - **cURL** or any REST client
+- [Download Postman Collection](./Student CRUD app.postman_collection.json)
+
 
 ---
 
