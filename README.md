@@ -32,15 +32,13 @@ You can test the endpoints using:
 
 - **Postman**: [Download here](https://www.postman.com/downloads/)
 - **cURL** or any REST client
-- [Download Postman Collection](./Student CRUD app.postman_collection.json)
-
 
 ---
 
 ## Sample Responses
 
 ### Get All Students
-![Get All Students](./screenshots/get-all.png)
+
 
 ### Add Student
-![Add Student](./screenshots/post-student.png)
+
